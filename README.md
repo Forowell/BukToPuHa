@@ -1,5 +1,5 @@
-# BukToPuHa
-Telegram bot @BukToPuHa (quiz, trivia)
+# Fmtrivia
+Telegram bot @Fmtrivia (quiz, trivia)
 
 # English description
 Bot posts questions to playing accounts and waiting for answers. Players recevices all other players is posting to bot. Right answers adds 3 scores to player, answer after hint - 1 score.
